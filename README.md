@@ -1,5 +1,5 @@
 # nicolepastrana.github.io
-<a href="https://www.linkedin.com/in/nicolepastrana/"><img src="linkedin_qrcode.png"></a>
+<a href="https://www.linkedin.com/in/nicolepastrana/"><img src="linkedin_qrcode.png" width=100px height=auto></a>
 <br />
 <br />
 

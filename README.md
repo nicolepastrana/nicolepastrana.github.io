@@ -3,7 +3,6 @@
 <p>I'm currently pursuing a <strong>Data Engineering Professional Certificate</strong> from <strong>MIT</strong> xPRO. Here you'll find the projects I've worked on.</p>
 
 <ul>
-<li>
-<a href="https://github.com/nicolepastrana/housing_price_prediction">Building a Model to Predict Housing Prices</a>
-</li>
+<li><a href="https://github.com/nicolepastrana/housing_price_prediction">Building a Model to Predict Housing Prices</a></li>
+<li><a href="https://github.com/nicolepastrana/MRTS_ETL">ETL, Analysis, and Visualization of MRTS Data</a></li>
 </ul>
